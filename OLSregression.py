@@ -40,7 +40,7 @@ results = model.fit()
 results.params
 results.tvalues
 
-print(results.t_test([1,0]))
+print(results.t_test([3,0])
 
 
 
